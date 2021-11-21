@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:islamrabi02@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
   <a href="https://www.linkedin.com/in/rabi-islam-7233b0174/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://www.facebook.com/rabi.islam.96343"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/rabi.islam.96343"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
   <a href="https://www.instagram.com/islamrabi02/?hl=en"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 </p>
 
