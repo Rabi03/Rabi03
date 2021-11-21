@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Rabi03"><img height="250" width="500" src="https://github.com/Rabi03/Rabi03/blob/main/coding.png?raw=true"></a>
-<p>Md.Rabiul Islam</p>
+<p style="font:bold;font-size:25px">Md.Rabiul Islam</p>
 <p>Programmer | Developer <p>
 </div>
 
