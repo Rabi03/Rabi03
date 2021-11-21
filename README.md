@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="mailto:islamrabi02@gmail.com"><img height="30" src="https://i.imgur.com/FOxl535.png"></a>
-  <a href="https://www.linkedin.com/in/rabi-islam-7233b0174/"><img height="30" src="https://i.imgur.com/HvkYBE2.png"></a>
-  <a href="https://www.facebook.com/rabi.islam.96343"><img height="30" src="https://i.imgur.com/wyJq4zr.png"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Rabi03"><img height="30" src="https://i.imgur.com/XJ3InNT.jpg"></a>
+  <a href="mailto:islamrabi02@gmail.com"><img src="https://img.icons8.com/fluency/96/000000/gmail-new.png"/></a>
+  <a href="https://www.linkedin.com/in/rabi-islam-7233b0174/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
+  <a href="https://www.facebook.com/rabi.islam.96343"><img src="https://img.icons8.com/fluency/96/000000/facebook-new.png"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/islamrabi02/?hl=en"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/></a>
 </p>
 
 
