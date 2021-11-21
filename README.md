@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/Rabi03"><img height="60" width="60" src="https://avatars.githubusercontent.com/u/47238269?v=4" style="border-radius:30"></a>
+<a href="https://github.com/Rabi03"><img height="100" width="100" src="https://avatars.githubusercontent.com/u/47238269?v=4" style="border-radius:50px"></a>
 <p>Md.Rabiul Islam</p>
 <p>Programmer | Developer <p>
 </div>
