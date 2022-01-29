@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://github.com/Rabi03"><img height="250" width="500" src="https://github.com/Rabi03/Rabi03/blob/main/coding.png?raw=true"></a>
 <h1 style="font-weight:bold;font-size:75px">Md.Rabiul Islam</h1>
-<h3 style="font-weight:bold;font-size:75px">Programmer | Developer <h3>
+<h3 style="font-weight:bold;font-size:75px">Programmer | MERN Stack Developer <h3>
 </div>
 
 <p align="center">
