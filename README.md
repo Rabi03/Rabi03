@@ -28,8 +28,7 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+<img height="273em" src="https://leetcard.jacoblin.cool/Rabi_Islam?theme=light&font=Karma&ext=contest" />
 </p>
 <p align="center" >
   <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabi03&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
